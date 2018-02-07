@@ -1,0 +1,5 @@
+
+<vlan voice="300">
+ <name>VOICE_VLAN</name>
+<!--Treat with Priority. -->
+</vlan>
